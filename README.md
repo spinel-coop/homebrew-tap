@@ -1,18 +1,7 @@
-# Spinel-coop Tap
+# Spinel-coop Tap (Deprecated)
 
-## How do I install these formulae?
+[`rv`](https://github.com/spinel-coop/rv) has been migrated to [Homebrew/core](https://github.com/Homebrew/homebrew-core/blob/main/Formula/r/rv.rb)
 
-`brew install spinel-coop/tap/<formula>`
+## Install rv with Homebrew
 
-Or `brew tap spinel-coop/tap` and then `brew install <formula>`.
-
-Or, in a `brew bundle` `Brewfile`:
-
-```ruby
-tap "spinel-coop/tap"
-brew "<formula>"
-```
-
-## Documentation
-
-`brew help`, `man brew` or check [Homebrew's documentation](https://docs.brew.sh).
+`brew install rv`
